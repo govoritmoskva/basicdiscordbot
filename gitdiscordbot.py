@@ -80,4 +80,4 @@ async def всеовшп(ctx):
 			Button(style=ButtonStyle.URL, label="✈️ Телеграм", url="https://t.me/it_proger_com")
 		]
 	)
-bot.run(token) #Включение бота
+bot.run(ypurtoken) #Включение бота
